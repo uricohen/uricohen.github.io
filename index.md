@@ -14,4 +14,5 @@ I am an aspiring scientist in the field of computational neuroscience, intereste
 *	Biological alternatives to error backpropagation, implementation of gradient descent.
 *	Predictive coding and its relation to learning and memory.
 
-[PhD Thesis](./phd_thesis.html)
+[PhD Thesis](./phd_thesis.html)  
+[Random Matrix Gallery](https://github.com/populationcodes/random-matrix-gallery/)  
