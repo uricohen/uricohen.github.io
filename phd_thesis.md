@@ -15,4 +15,5 @@ Advisor: Prof. Haim Sompolinsky
 In my PhD thesis, I used statistical physics methods to analyze neuronal responses to objects and measure the properties important for linear object classification. Those are geometric properties of object manifolds which I use to shed light on object representations in artificial deep networks and in the brain and how it changes across levels of processing.
 
 [Research Interests](./)  
+[Memory recall project](./memory_recall.html)  
 [Random Matrix Gallery](https://github.com/populationcodes/random-matrix-gallery/)  

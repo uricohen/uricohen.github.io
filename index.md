@@ -9,10 +9,11 @@ I am an aspiring scientist in the field of computational neuroscience, intereste
 ## Research Interests
 
 *	Population coding and manifold representation of sensory information.
-*	Biological learning and its relation to memory encoding and usage.
+*	Biological learning and its relation to memory encoding and recall.
 *	Neural implementation of world-models and its application to reinforcement learning.
 *	Biological alternatives to error backpropagation, implementation of gradient descent.
 *	Predictive coding and its relation to learning and memory.
 
 [PhD Thesis](./phd_thesis.html)  
+[Memory recall project](./memory_recall.html)  
 [Random Matrix Gallery](https://github.com/populationcodes/random-matrix-gallery/)  
